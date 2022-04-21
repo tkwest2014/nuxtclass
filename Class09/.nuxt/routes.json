@@ -1,0 +1,44 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/blog.vue",
+    "chunkName": "pages/blog"
+  },
+  {
+    "name": "countries",
+    "path": "/countries",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/countries.vue",
+    "chunkName": "pages/countries"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/faq.vue",
+    "chunkName": "pages/faq"
+  },
+  {
+    "name": "images",
+    "path": "/images",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/images.vue",
+    "chunkName": "pages/images"
+  },
+  {
+    "name": "images2",
+    "path": "/images2",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/images2.vue",
+    "chunkName": "pages/images2"
+  },
+  {
+    "name": "mixin",
+    "path": "/mixin",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/mixin.vue",
+    "chunkName": "pages/mixin"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/thomaswest/git_repos/nuxtclass/Lesson09/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
